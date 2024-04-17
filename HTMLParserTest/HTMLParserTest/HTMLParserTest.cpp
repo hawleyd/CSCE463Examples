@@ -64,7 +64,7 @@ int main(int argc, char** argv)
 	{
 		printf ("%s\n", linkBuffer);
 		linkBuffer += strlen (linkBuffer) + 1;
-	}
+ 	}
 
 	delete parser;		// this internally deletes linkBuffer
 	delete fileBuf;
