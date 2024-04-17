@@ -1,0 +1,29 @@
+Successfully connected to www.tamu.edu (13.249.21.87) on port 80
+-----------------
+Host Name: backrm
+Domain Name:
+DNS Servers:
+        75.75.75.75
+        75.75.76.76
+-----------------
+current CPU utilization 4.166667%
+current CPU utilization 1.785714%
+current CPU utilization 1.282051%
+current CPU utilization 1.282051%
+current CPU utilization 0.641026%
+current CPU utilization 1.282051%
+current CPU utilization 0.595238%
+current CPU utilization 1.923077%
+current CPU utilization 0.641026%
+current CPU utilization 1.388889%
+-----------------
+threadA 14508 started
+threadA 11360 started
+threadB running!
+threadB setting eventQuit
+threadA 11360 quitting on event
+threadA 14508 quitting on event
+terminating main(), completion time 5.03 sec
+
+C:\github\CSCE463Examples\Threads\x64\Debug\Threads.exe (process 12744) exited with code 0.
+Press any key to close this window . . .
